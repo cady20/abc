@@ -1,0 +1,64 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	background-color:#CCC;
+	font-family:微软雅黑;
+}
+
+#container {
+	width:40%;
+	margin:auto;	
+}
+
+input {
+	width:80%;
+	height:25px;
+	background-color:#EFEFEF;
+	border-radius:15px;
+	padding-left:5px;
+}
+
+#addButton {
+	float:right;
+	margin: 5px 2% 5px auto;
+	border-radius: 20px;
+	border-color: #A9A9A9;
+	cursor: pointer;
+}
+
+.countNumber {
+	float:right;
+	margin: auto 5% auto auto;
+}
+
+h3 {
+	background-color:#A9A9A9;
+	margin-bottom: 5px;
+	padding-left:5px;
+	border-radius:15px;
+}
+
+.item {
+	border:solid #CCC 1px;
+	margin: 5px 0;
+	background-color:#C0C0C0;
+	border-radius:20px;
+	padding-left:5px;
+}
+
+.button {
+	float:right;
+	width:25px;
+	margin:5px 5px 0 0;
+}
+
+
+.itemContent {
+	width:80%;
+	margin:5px;
+	word-wrap:break-word;
+}
+
+
+
