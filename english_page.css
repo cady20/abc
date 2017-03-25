@@ -1,0 +1,14 @@
+@charset "utf-8";
+/* CSS Document */
+
+#cases_tip {
+	left: 200px;
+}
+
+.basic-information-content {
+	margin-right: 100px;
+}
+
+.basic-information-content td {
+	width: 170px;
+}

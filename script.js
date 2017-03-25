@@ -89,4 +89,14 @@ $(document).ready(function(){
 		$("html, body").animate({scrollTop: 0}, 1500, "easeInOutCubic");
 	});
 	
+//	$(".language_button").hover(function(){
+//		$(".language_button").animate({backgroundColor:"#888",color:"#ddd"},700);
+//		},function(){
+//		$(".language_button").animate({background:"rgba(204,204,204,0.7)",color:"#000"},700);
+//	});
+	
+	$("#language_button_chinese").click(function(){
+		$(".language_choose_mask").hide();
+	});
+	
 });
